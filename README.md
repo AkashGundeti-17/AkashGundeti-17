@@ -3,20 +3,6 @@
   Hi there, I'm Akash Gundeti!
 </h1>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Building+Clean+Web+Experiences" alt="Typing SVG">
-</p>
-
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://github.com/AkashGundeti-17.png" alt="Akash Gundeti" width="180">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkashGundeti-17&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Building+Clean+Web+Experiences" alt="Typing SVG">
 </p>
