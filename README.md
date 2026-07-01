@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Building+Clean+Web+Experiences" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views">
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
