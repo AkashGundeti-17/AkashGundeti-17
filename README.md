@@ -1,4 +1,3 @@
-<img width="2317" height="3475" alt="profile" src="https://github.com/user-attachments/assets/2ffdd716-261c-4731-8eac-bd39fd6379f7" />
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave">
   Hi there, I'm Akash Gundeti!
