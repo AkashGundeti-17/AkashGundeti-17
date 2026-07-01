@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_ID" 
+       alt="Profile" 
+       style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+</div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave">
   Hi there, I'm Akash Gundeti!
